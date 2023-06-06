@@ -4,12 +4,6 @@ UAS PBO Soal 6 Soal : Terjemahan DNA menggunakan python: Dengan menggunakan rumu
 # Tentang Program
 Menggunakan program ini, pengguna dapat menginput urutan DNA (contoh: TACGGCCCATATATT) dan program akan menerjemahkan urutan DNA tersebut menjadi sebuah urutan RNA sekaligus urutan asam amino(protein) yang setara. RNA dan protein yang setara tentu saja didapat melalui tabel kodon yang banyak tersedia. Program ini dapat membantu pengguna dalam proses transkripsi DNA ke RNA serta translasi dari RNA ke asam amino secara lebih efektif dan lebih mudah. Program ini juga dapat menerima input berupa huruf non kapital (contoh: tacggcccatatatt) karena program akan secara otomatis mengkonversinya menjadi huruf besar setelah diinputkan. selain itu, sesuai dengan tabel kodon dan translasi RNA ke asam amino, program juga dapat mendeteksi jika ada kodon stop dalam urutan yang dimasukkan pengguna. Jadi, program akan otomatis berhenti melakukan translasi ketika bertemu dengan kodon stop.
 
-# Contoh Luaran
-My Image
-
-# Contoh Luaran Ketika Terdapat Kodon Stop
-My Image
-
 # Metode Program
 Program tersebut dibuat menggunakan pendekatan OOP (Object-oriented Programming) atau pemrograman berbasis objek. Dengan menggunakan metode OOP, dapat memudahkakn untuk mengorganisir dan mengelompokkan kode ke dalam kelas dan objek yang memiliki properti dan metode terkait. Selain itu pendekatan melalui OOP juga membuat program mudah dibaca dan dipahami sehingga sangat memudahkan dokumentasi dari program. OOP juga membuat program lebih mudah untuk dikembangkan serta dimodifikasi, karena method dan kelasnya memiliki masing-masing fungsi yang jelas. Hal tersebut juga membantu dalam pemeliharaan program, bila ditemukan kesalahan maka dapat mudah ditemukan karena strukturnya yang rapi.
 
